@@ -62,3 +62,8 @@ int main()
 
     return 0;
 }
+
+Run Commands:
+ g++ -fopenmp bfs.cpp -o bfs
+
+./bfs
